@@ -1,0 +1,7 @@
+{
+    "versionCode":  11,
+    "versionName":  "0.2.9",
+    "apk":  "https://github.com/phil01les/monimate-releases/releases/download/v0.2.9/monimate-0.2.9.apk",
+    "sha256":  "d93b1246bdb0ef032241af8257f2d07938e3d7150b8c021324cefde1c9deca9e",
+    "notes":  "Les six trouvailles du detecteur corrigees : liste des diagnostics virtualisee, et les cinq points de couleur decoratifs retires."
+}
